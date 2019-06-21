@@ -34,6 +34,5 @@ class Song
     genre_count
   end
   #
-  end 
 #binding.pry
 end 
